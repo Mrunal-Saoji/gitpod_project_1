@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://2368-mrunalsaoji-gatsbystart-bsz8vz7dfmt.ws-us106.gitpod.io",
-    "contentApiKey": "1ef8b04f34fe101a485170e111"
+    "apiUrl": "http://127.0.0.1:2368",
+    "contentApiKey": "9688ee9a648b3f0cd3fe86c96d"
   },
   "production": {
-    "apiUrl": "https://2368-mrunalsaoji-gatsbystart-bsz8vz7dfmt.ws-us106.gitpod.io",
-    "contentApiKey": "1ef8b04f34fe101a485170e111"
+    "apiUrl": "http://127.0.0.1:2368",
+    "contentApiKey": "9688ee9a648b3f0cd3fe86c96d"
   }
 }
